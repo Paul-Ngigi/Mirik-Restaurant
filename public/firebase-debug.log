@@ -1,0 +1,39 @@
+[debug] [2021-09-01T15:15:13.579Z] ----------------------------------------------------------------------
+[debug] [2021-09-01T15:15:13.581Z] Command:       /usr/local/bin/firebase /root/.cache/firebase/tools/lib/node_modules/firebase-tools/lib/bin/firebase init
+[debug] [2021-09-01T15:15:13.581Z] CLI Version:   9.16.6
+[debug] [2021-09-01T15:15:13.581Z] Platform:      linux
+[debug] [2021-09-01T15:15:13.581Z] Node Version:  v12.18.1
+[debug] [2021-09-01T15:15:13.582Z] Time:          Wed Sep 01 2021 18:15:13 GMT+0300 (East Africa Time)
+[debug] [2021-09-01T15:15:13.582Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-09-01T15:15:13.587Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-09-01T15:15:13.588Z] > authorizing via signed-in user (paulkush7777@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /root/Desktop/Final
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[debug] [2021-09-01T15:15:28.489Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects pageSize=100
+[debug] [2021-09-01T15:15:29.148Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects 200
+[debug] [2021-09-01T15:15:29.149Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects [omitted]
+[info] i  Using project mirik-restaurant (Mirik Restaurant) 
+[info] 
+=== Hosting Setup
+[info] 
+[info] Your public directory is the folder (relative to your project directory) that
+[info] will contain Hosting assets to be uploaded with firebase deploy. If you
+[info] have a build process for your assets, use your build's output directory.
+[info] 
